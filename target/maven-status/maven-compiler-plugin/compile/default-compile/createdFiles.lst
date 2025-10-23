@@ -1,0 +1,13 @@
+candyland\plugin\candyReferalSystem\utils\MessagesManager.class
+candyland\plugin\candyReferalSystem\referal\CommandsManager.class
+candyland\plugin\candyReferalSystem\utils\Utils.class
+candyland\plugin\candyReferalSystem\utils\LogManager.class
+candyland\plugin\candyReferalSystem\utils\color\impl\LegacyColorizer.class
+candyland\plugin\candyReferalSystem\utils\DataManager.class
+candyland\plugin\candyReferalSystem\referal\ReferalCommand.class
+candyland\plugin\candyReferalSystem\utils\color\Colorizer.class
+candyland\plugin\candyReferalSystem\utils\color\impl\MiniMessageColorizer.class
+candyland\plugin\candyReferalSystem\utils\color\impl\LegacyAdvancedColorizer.class
+candyland\plugin\candyReferalSystem\utils\color\impl\VanillaColorizer.class
+candyland\plugin\candyReferalSystem\utils\ConfigManager.class
+candyland\plugin\candyReferalSystem\CandyReferalSystem.class

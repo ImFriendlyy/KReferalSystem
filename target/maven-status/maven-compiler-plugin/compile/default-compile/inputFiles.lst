@@ -1,0 +1,13 @@
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\CandyReferalSystem.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\referal\CommandsManager.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\referal\ReferalCommand.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\color\Colorizer.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\color\impl\LegacyAdvancedColorizer.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\color\impl\LegacyColorizer.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\color\impl\MiniMessageColorizer.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\color\impl\VanillaColorizer.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\ConfigManager.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\DataManager.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\LogManager.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\MessagesManager.java
+D:\.sss\plugin\CandyReferalSystem\src\main\java\candyland\plugin\candyReferalSystem\utils\Utils.java

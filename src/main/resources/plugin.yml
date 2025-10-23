@@ -1,0 +1,16 @@
+name: KReferalSystem
+version: '1.0'
+main: vv0ta3fa9.plugin.KReferalSystem
+api-version: '1.20'
+authors: [ vv0ta3fa9  ]
+description: v1.0
+website: t.me/kapybarkaaa
+commands:
+  kreferal:
+    description: Главная команда управления Rune Guard Assistant
+    usage: /kreferal <reload|help|list>
+    permission: kreferalsystem.admin
+  referal:
+    description: Команда для активации реферального кода
+    usage: /referal <code>
+    permission: kreferalsystem.user

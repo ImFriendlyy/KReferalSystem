@@ -1,0 +1,30 @@
+debug: false
+log: true
+# LEGACY - использование цветов & и hex &#
+# LEGACY_ADVANCED - - улучшенная версия LEGACY с поддержкой шестнадцатеричного формата &##
+# MINIMESSAGE - цвет с помощью <color> (1.17+)
+serializer: LEGACY
+
+# SQLite.
+database: "SQLite"
+
+# MySQL настройки.
+mysql:
+  host: localhost
+  port: 3306
+  database: runeguard
+  user: root
+  password: password
+
+#Список доступных реферальных кодов
+media-code-list:
+  - ""
+  - ""
+#
+# Список команд которые исполнятся после активации промокода
+# Плейсхолдеры:
+# %sender% - исполнитель команды
+#
+command-on-complete:
+  - "eco give %sender% 50000"
+  - ""

@@ -1,0 +1,16 @@
+name: CandyReferalSystem
+version: '1.0'
+main: candyland.plugin.candyReferalSystem.CandyReferalSystem
+api-version: '1.20'
+authors: [ vv0ta3fa9  ]
+description: v1.0
+website: t.me/kapybarkaaa
+commands:
+  candyreferal:
+    description: Главная команда управления Rune Guard Assistant
+    usage: /candyreferal <reload|help|list>
+    permission: candyreferalsystem.admin
+  referal:
+    description: Команда для активации реферального кода
+    usage: /referal <code>
+    permission: candyreferalsystem.user
